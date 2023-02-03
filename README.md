@@ -9,23 +9,23 @@ This project uses different machine learning models to try and create a trading 
 
 The three different models created are described below:
   1. Baseline Model with the following paremeters:
-    + 4-day fast SMA
-    + 100-day long SMA
+  + 4-day fast SMA
+  + 100-day long SMA
 
-    ![baseline](Images/baseline.png)
+    ![baseline](/Images/baseline.png)
 
   2. Tuned model (hyperparemter)
-    + 4-day fast SMA
-    + 140-day long SMA
+  + 4-day fast SMA
+  + 140-day long SMA
 
-    ![tuned](Images/tuned.png)
+    ![tuned](/Images/tuned.png)
 
 
   3. KNN (K Nearest Neighbors) model with baseline paremters
-    + 4-day fast SMA
-    + 100-day long SMA
+  + 4-day fast SMA
+  + 100-day long SMA
 
-    ![knn](Images/knn.png)
+    ![knn](/Images/knn.png)
 
 ## Table of Contents
 
