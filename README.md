@@ -15,7 +15,7 @@ The three different models created are described below:
 
       ![baseline](/Images/baseline.png)
 
-  2. Tuned model (hyperparemter)
+  2. Tuned model (hyperparemter):
      + 4-day fast SMA
      + 140-day long SMA
      + Accuracy -> 0.56
@@ -23,7 +23,7 @@ The three different models created are described below:
       ![tuned](/Images/tuned.png)
 
 
-  3. KNN (K Nearest Neighbors) model with baseline paremters
+  3. KNN (K Nearest Neighbors) model with baseline paremters:
      + 4-day fast SMA
      + 100-day long SMA
      + Accuracy -> 0.52
