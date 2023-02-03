@@ -5,7 +5,27 @@
 
 ## Description
 
-This project aims to make a bot that will make good trades based on machine learning algorithms.
+This project uses different machine learning models to try and create a trading algorithm that predicts early signals for entry / exit strategies. The basis of this algorithm uses Simple Moving Average (SMA).
+
+The three different models created are described below:
+  1. Baseline Model with the following paremeters:
+    + 4-day fast SMA
+    + 100-day long SMA
+
+    ![baseline](/Images/baseline.png)
+
+  2. Tuned model (hyperparemter)
+    + 4-day fast SMA
+    + 140-day long SMA
+
+    ![tuned](/Images/tuned.png)
+
+
+  3. KNN (K Nearest Neighbors) model with baseline paremters
+    + 4-day fast SMA
+    + 100-day long SMA
+
+    ![knn](/Images/knn.png)
 
 ## Table of Contents
 
